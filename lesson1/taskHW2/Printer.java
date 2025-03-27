@@ -4,7 +4,6 @@
 class Answer {
     public static void printEvenNums() {
     // Напишите свое решение ниже
-    int max = 100;
     for (int i=2; i<=100; i+=2){
         System.out.println(i);
     }
